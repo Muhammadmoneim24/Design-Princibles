@@ -1,0 +1,15 @@
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\bin\Debug\net7.0\EncabsulateWhatVaries.exe
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\bin\Debug\net7.0\EncabsulateWhatVaries.deps.json
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\bin\Debug\net7.0\EncabsulateWhatVaries.runtimeconfig.json
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\bin\Debug\net7.0\EncabsulateWhatVaries.dll
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\bin\Debug\net7.0\EncabsulateWhatVaries.pdb
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\EncabsulateWhatVaries.csproj.AssemblyReference.cache
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\EncabsulateWhatVaries.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\EncabsulateWhatVaries.AssemblyInfoInputs.cache
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\EncabsulateWhatVaries.AssemblyInfo.cs
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\EncabsulateWhatVaries.csproj.CoreCompileInputs.cache
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\EncabsulateWhatVaries.dll
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\refint\EncabsulateWhatVaries.dll
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\EncabsulateWhatVaries.pdb
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\EncabsulateWhatVaries.genruntimeconfig.cache
+E:\Courses\.NET\Design Princibles\EncabsulateWhatVaries\EncabsulateWhatVaries\obj\Debug\net7.0\ref\EncabsulateWhatVaries.dll
