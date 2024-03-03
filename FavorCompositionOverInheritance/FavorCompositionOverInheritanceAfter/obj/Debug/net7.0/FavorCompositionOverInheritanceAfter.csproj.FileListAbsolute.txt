@@ -1,0 +1,15 @@
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\bin\Debug\net7.0\FavorCompositionOverInheritanceAfter.exe
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\bin\Debug\net7.0\FavorCompositionOverInheritanceAfter.deps.json
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\bin\Debug\net7.0\FavorCompositionOverInheritanceAfter.runtimeconfig.json
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\bin\Debug\net7.0\FavorCompositionOverInheritanceAfter.dll
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\bin\Debug\net7.0\FavorCompositionOverInheritanceAfter.pdb
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\FavorCompositionOverInheritanceAfter.csproj.AssemblyReference.cache
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\FavorCompositionOverInheritanceAfter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\FavorCompositionOverInheritanceAfter.AssemblyInfoInputs.cache
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\FavorCompositionOverInheritanceAfter.AssemblyInfo.cs
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\FavorCompositionOverInheritanceAfter.csproj.CoreCompileInputs.cache
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\FavorCompositionOverInheritanceAfter.dll
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\refint\FavorCompositionOverInheritanceAfter.dll
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\FavorCompositionOverInheritanceAfter.pdb
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\FavorCompositionOverInheritanceAfter.genruntimeconfig.cache
+E:\Courses\.NET\Design Princibles\FavorCompositionOverInheritance\FavorCompositionOverInheritanceAfter\obj\Debug\net7.0\ref\FavorCompositionOverInheritanceAfter.dll
