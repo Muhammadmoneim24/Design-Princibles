@@ -1,0 +1,14 @@
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\bin\Debug\net8.0\Loose_vs_Tight_Coupling.exe
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\bin\Debug\net8.0\Loose_vs_Tight_Coupling.deps.json
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\bin\Debug\net8.0\Loose_vs_Tight_Coupling.runtimeconfig.json
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\bin\Debug\net8.0\Loose_vs_Tight_Coupling.dll
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\bin\Debug\net8.0\Loose_vs_Tight_Coupling.pdb
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\obj\Debug\net8.0\Loose_vs_Tight_Coupling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\obj\Debug\net8.0\Loose_vs_Tight_Coupling.AssemblyInfoInputs.cache
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\obj\Debug\net8.0\Loose_vs_Tight_Coupling.AssemblyInfo.cs
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\obj\Debug\net8.0\Loose_vs_Tight_Coupling.csproj.CoreCompileInputs.cache
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\obj\Debug\net8.0\Loose_vs_Tight_Coupling.dll
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\obj\Debug\net8.0\refint\Loose_vs_Tight_Coupling.dll
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\obj\Debug\net8.0\Loose_vs_Tight_Coupling.pdb
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\obj\Debug\net8.0\Loose_vs_Tight_Coupling.genruntimeconfig.cache
+E:\Courses\.NET\Design Princibles\Loose_vs_Tight_Coupling\Loose_vs_Tight_Coupling\obj\Debug\net8.0\ref\Loose_vs_Tight_Coupling.dll
